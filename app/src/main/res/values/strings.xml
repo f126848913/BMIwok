@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="name">name</string>
+    <string name="tall">tall(cm)</string>
+    <string name="weight">weight(hg)</string>
+    <string name="BMI">BMI</string>
+</resources>
